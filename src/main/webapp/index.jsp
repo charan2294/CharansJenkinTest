@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Jenkins job Test</h2>
+<h2>Iam ready to study</h2>
 </body>
 </html>
